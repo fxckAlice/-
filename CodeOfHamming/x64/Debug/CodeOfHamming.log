@@ -1,0 +1,46 @@
+﻿  CodesOFHamming.cpp
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(36,28): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(28,18): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(37,7): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(37,28): error C2065: stage: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(38,11): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(40,12): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(40,34): error C2065: stage: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(41,11): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(44,4): error C2065: string: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(44,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "temp"
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(44,11): error C2065: temp: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(44,18): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(45,4): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(46,25): error C2065: stage: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(46,33): error C2065: temp: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(47,5): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(49,4): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(49,17): error C2065: temp: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(50,11): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(79,1): error C2660: CodesOFHamming::stageOfBinary: функция не принимает 2 аргументов
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOFHamming.h(36,14): message : см. объявление "CodesOFHamming::stageOfBinary"
+  main.cpp
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(36,28): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(28,18): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(37,7): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(37,28): error C2065: stage: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(38,11): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(40,12): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(40,34): error C2065: stage: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(41,11): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(44,4): error C2065: string: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(44,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "temp"
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(44,11): error C2065: temp: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(44,18): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(45,4): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(46,25): error C2065: stage: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(46,33): error C2065: temp: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(47,5): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(49,4): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(49,17): error C2065: temp: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(50,11): error C2065: parameter: необъявленный идентификатор
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(79,1): error C2660: CodesOFHamming::stageOfBinary: функция не принимает 2 аргументов
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\CodesOfHamming.h(36,14): message : см. объявление "CodesOFHamming::stageOfBinary"
+C:\Users\mykha\source\repos\Study\CodeOfHamming\CodeOfHamming\main.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
